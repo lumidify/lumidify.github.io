@@ -1,1 +1,7 @@
-{"name":"Lumidify.GitHub.io","tagline":"Lumidify Productions","body":"#Hi! This is an amazing website, isn't it?\r\n![Hobo](hobo.png)","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Lumidify Productions",
+  "tagline": "",
+  "body": "#Hi! This is an amazing website, isn't it?\r\n\r\n###Contact:\r\n\r\nlumidify@openmailbox.org\r\n\r\n@lumidify on irc.freenode.net\r\n\r\nChannel: #lumidifyproductions\r\n\r\n![Hobo](hobo.png)",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
