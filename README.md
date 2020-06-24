@@ -1,2 +1,2 @@
 # lumidify.github.io
-Lumidify Productions website
+Moved to http://lumidify.org or gopher://lumidify.org
